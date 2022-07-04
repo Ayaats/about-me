@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="ayat_shehab">Ayat Shehab</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">As a graduate student,
+        \nSaito worked as the fiction editor for Quince Magazine,
+        \na literary journal. In 2006, her collection of stories
+        \nwon the Delaney Prize in Short Fiction.
+        \nSaito worked as the fiction editor for Quince Magazine,
+        \na literary journal. In 2006, her collection of stories
+        \nwon the Delaney Prize in Short Fiction.
+    </string>
+
+    <string name="what_ia_your_name">what is your name?</string>
+    <string name="done">DONE</string>
+</resources>
